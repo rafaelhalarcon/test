@@ -11,7 +11,6 @@ public class Student {
 		marks = i;
 	}
 	public double getMarks() {
-		// TODO Auto-generated method stub
 		return marks;
 	}
 	public void setMarks(double i) {
@@ -30,7 +29,6 @@ public class Student {
 		this.nextStudent = nextStudent;
 	}
 	public String getName() {
-		// TODO Auto-generated method stub
 		return name;
 	}
 
