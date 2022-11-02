@@ -4,6 +4,7 @@
 	<classpathentry kind="src" path="sllq"/>
 	<classpathentry kind="src" path="dll"/>
 	<classpathentry kind="src" path="singlyLL"/>
+	<classpathentry kind="src" path="sllstack"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
